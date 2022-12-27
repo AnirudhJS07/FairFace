@@ -4,18 +4,6 @@ The paper: https://openaccess.thecvf.com/content/WACV2021/papers/Karkkainen_Fair
 
 Karkkainen, K., & Joo, J. (2021). FairFace: Face Attribute Dataset for Balanced Race, Gender, and Age for Bias Measurement and Mitigation. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 1548-1558).
 
-### If you use our dataset or model in your paper, please cite:
-
-```
- @inproceedings{karkkainenfairface,
-  title={FairFace: Face Attribute Dataset for Balanced Race, Gender, and Age for Bias Measurement and Mitigation},
-  author={Karkkainen, Kimmo and Joo, Jungseock},
-  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
-  year={2021},
-  pages={1548--1558}
-}
-```
-
 ### Examples of FairFace Prediction
 ![](https://github.com/dchen236/FairFace/blob/master/examples/female.png)
 ![](https://github.com/dchen236/FairFace/blob/master/examples/male.png)
